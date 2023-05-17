@@ -18,4 +18,4 @@ Following this step to run:
       * Select the [Test Case](https://paste.pics/O19JE) you want to running
       * Select [dropdown icon](https://paste.pics/O194R) beside button running
       * Select Chrome if you want to running Web Testing and select Web Service if you want to running API Testing https://paste.pics/O197E
-   > *the different that method is, if you running files under directory **Test Cases** you just running with one (1) iteration, but if you running files under directory file **Test Suites** you can running test case based on the available data in **Data Files*** 
+   > *the different of that method is, if you running files under directory **Test Cases** you just running with one (1) iteration, but if you running files under directory file **Test Suites** you can running test case based on the available data in **Data Files*** 
