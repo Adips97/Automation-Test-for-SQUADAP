@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Registration Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81e9806b-edc8-4fdf-b6a2-e170ad9f482f</testCaseGuid>
+   <variable>
+      <defaultValue>'Adi'</defaultValue>
+      <description></description>
+      <id>004292f5-b7b2-44bf-aafe-74f53650d563</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Register'</defaultValue>
+      <description></description>
+      <id>1fceb177-80f4-4905-8920-395e0d2c8891</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testregister1000002@email.com'</defaultValue>
+      <description></description>
+      <id>39770320-3f58-4a03-9de0-f37d51ab9da8</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tesregister@'</defaultValue>
+      <description></description>
+      <id>f0ba6923-9d10-43a8-9e89-3720ef614ae6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
