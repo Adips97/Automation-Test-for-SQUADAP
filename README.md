@@ -8,4 +8,4 @@ Following this step to run:
 3. The display if you success to clone the project
 <img width="1440" alt="image" src="https://github.com/Adips97/Automation-Test-for-SQUADAP/assets/36126815/1dae3b6f-5d2f-40c1-85ce-78a84370d0b1">
 4. You can running with two (2) method
-  * test
+   * test wqr
